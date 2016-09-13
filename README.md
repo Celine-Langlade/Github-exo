@@ -1,3 +1,13 @@
+
+1er commit sympa
+# Github-exo
+
+Hey !
+
+l'eautrogrffa cé 1portant pour la çantais
+
+1er commit sympa (ou pas)
+
 1er commit sympa
 
 - C’est une bonne situation ça scribe ?
@@ -6,4 +16,3 @@
 
 
 Sprotch !
-
