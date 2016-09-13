@@ -1,1 +1,4 @@
-# Github-exo
+
+
+Exercice sur Git
+ Github-exo
