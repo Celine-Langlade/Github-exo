@@ -4,7 +4,7 @@ Hey !
 
 
 <<<<<<< HEAD
-1er commit sympa (ou pas)
+1er commit sympa (ou pas...)
 =======
 =======
 1er commit sympa
